@@ -1,0 +1,6 @@
+/data
+*.dat
+.ipynb_checkpoints/
+*/__pycache__/
+.idea
+*.pdf
